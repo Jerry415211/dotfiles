@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jerryl@outlook.com
+	name = Jerry Liao
